@@ -1,2 +1,8 @@
 .vercel
 .env*.local
+# Ignore Vercel and editor settings
+.vercel/
+.vscode/
+*.jpg
+*.jpeg
+*.webp
